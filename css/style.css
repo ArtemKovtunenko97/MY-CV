@@ -1,0 +1,13 @@
+body{
+    font-family: system-ui;
+    background: #f06d06;
+    color: black;
+    text-align: left;
+}
+h1{
+    border-bottom: 3px solid maroon;
+    padding-bottom: 5px;
+}
+h3{
+    font-weight: normal;
+}
